@@ -1,0 +1,45 @@
+109751<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venda de Carros</title>
+</head>
+<body>
+    <h1> </h1>
+    <p> PRODUTOS DISPONIVEIS </p>
+    <hr>
+    <br>
+    <br>
+    <br>
+    <h1></h1>
+    <p> CARROS DISPONIVEIS </p>
+    <img src="download.jpg" alt="">
+    <p>Carro:gol 2011 
+        valor 17.000 <button>Comprar</button>
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <h2></h2>
+    <p> <b>CASA NA PRAIA</b></p>
+    <img src="https://media.imoveis-sc.com.br/media/pad-760-580-000/saofranciscodosul-casa-capri-1156113-0-imagem_imovel_632d21b180cc01892812257000.jpg" 
+    height="300"
+    width="400">
+    <p>Casa no Bairro Capri em São Francisco do Sul com 5 Dormitórios (2 suítes) - 129</p>
+   <p>Valor:R$ 3.500.000</p> 
+   <hr>
+   <h3> </h3>
+   <p><i>ofertas de emprego</i></p>
+   <hr>
+   
+    
+    
+    
+  
+
+</body>
+</html>
